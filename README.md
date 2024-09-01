@@ -9,3 +9,5 @@ Meu nome é kaic lima
 ### Você pode entrar em contato comigo 📫
 00001124998445sp@al.educacao.sp.gov.br
 
+
+![](https://media.tenor.com/CJ9AcI3xY_AAAAAi/hello-cartman.gif)
