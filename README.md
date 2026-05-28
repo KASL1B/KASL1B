@@ -2,8 +2,8 @@
 
 Meu nome é kaic lima
 
-- Estou estudando na Alura
-- Estou aprendendo sobre a linguagem JavaScript
+- Estou estudando no João Prado Margarido
+- Estou aprendendo sobre a linguagem HTML, CSS e JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
